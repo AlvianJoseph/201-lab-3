@@ -1,0 +1,52 @@
+
+html{
+  
+    background-color: rgb(249, 255, 162);
+}
+
+
+body { 
+    /* Ive tried, cant get it to work. */
+    /* background-image: url("img/yoshi_background.png");
+    background-image: no-repeat;
+    background-position: 50% 50%; */
+}
+h1 {
+    font-family:Lucida Console, courier, monospace;
+    font-size: 85px;
+    margin-top: 125px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-left: 35px;
+    background-color: rgba(17, 207, 49, 0.932);
+
+    border-radius: 
+}
+h2{
+    font-family:Lucida Console, courier, monospace;
+    font-size: 22px;
+    padding-left: 130px;
+    padding-bottom: 25px;
+}
+    
+
+ul.thoughts{
+    max-width: 300px;
+    height: 300px;
+    text-align: center;
+    font-family:Lucida Console, courier, monospace;
+    font-size: 22px;
+    padding: 15px;
+    background-color: rgba(43, 179, 66, 0.411);
+    border: 4px solid rgba(8, 36, 13, 0.445);
+    margin-top: 65px;
+    margin-left: 85px;
+    margin-right: 10px;
+} 
+#yoshi{
+    margin-left: 700px;
+   
+}
+    
+
+
